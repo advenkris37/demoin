@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>CULAMETAN MET MET</name>
+    <Style id="line-FFD600-3713-nodesc-normal">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>3.713</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FFD600-3713-nodesc-highlight">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>5.5695</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-FFD600-3713-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFD600-3713-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFD600-3713-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFD600-4488-nodesc-normal">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>4.488</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FFD600-4488-nodesc-highlight">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>6.732</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-FFD600-4488-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFD600-4488-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFD600-4488-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFD600-5263-nodesc-normal">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>5.263</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FFD600-5263-nodesc-highlight">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>7.8945</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-FFD600-5263-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFD600-5263-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFD600-5263-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFD600-5456-nodesc-normal">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>5.456</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FFD600-5456-nodesc-highlight">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>8.184</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-FFD600-5456-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFD600-5456-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFD600-5456-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFD600-6425-nodesc-normal">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>6.425</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FFD600-6425-nodesc-highlight">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>9.6375</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-FFD600-6425-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFD600-6425-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFD600-6425-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>SD 2D - SG 2 B</name>
+      <styleUrl>#line-FFD600-3713-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          103.9048344,1.0812273,0
+          103.904774,1.0807624,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Splitter 1441 - SG 2D</name>
+      <styleUrl>#line-FFD600-4488-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          103.9036927,1.0812264,0
+          103.9048344,1.0812273,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>SG 2B - SG 2F</name>
+      <styleUrl>#line-FFD600-6425-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          103.9047761,1.0807723,0
+          103.9047161,1.0801332,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>SG 2D- SG 2C</name>
+      <styleUrl>#line-FFD600-5263-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          103.9048344,1.0812273,0
+          103.9049087,1.0817535,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>SG 2C - SG 2B</name>
+      <styleUrl>#line-FFD600-5456-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          103.9049087,1.0817535,0
+          103.904965,1.0820505,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>SG 2B - SG 2A</name>
+      <styleUrl>#line-FFD600-5263-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          103.904965,1.0820505,0
+          103.9050106,1.0823482,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
